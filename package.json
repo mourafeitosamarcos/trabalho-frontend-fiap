@@ -7,6 +7,9 @@
     "start": "next start",
     "lint": "next lint"
   },
+   "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "axios": "^0.24.0",
     "bootstrap": "^4.6.0",
